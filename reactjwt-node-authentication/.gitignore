@@ -1,0 +1,3 @@
+/server-side/node_modules
+/server-side/.env
+/server-side/package-lock.json
